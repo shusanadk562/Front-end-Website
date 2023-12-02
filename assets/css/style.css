@@ -729,7 +729,7 @@ main
 
 .toggle-btn 
 {
-  color: var(--color-primary);
+  color: var(---color-primary);
   font-family: var(--ff-poppins);
   padding: 5px 25px;
   transition: var(--transition-1);
